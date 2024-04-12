@@ -1,2 +1,2 @@
 # Notice
-This repository is archived. Please visit https://yell0wsuit.github.io/html5-games/ to explore the game's code or to play it.
+This repository is not supported or condoned by zeptolab and could be taken down at ANY time. Beware.
